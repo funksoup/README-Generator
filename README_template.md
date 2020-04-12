@@ -1,7 +1,7 @@
 
-# Hooking-Up-in-Your-Hood
+# Project Title
 
-description.
+Your project's description would go here..
 
 ------
 
@@ -9,18 +9,18 @@ description.
 
 Project is created with:
 
-javascript, node
+List the tech frameworks used.
 
 
 ## Installation
 
-sfadsf
+Describe installation instructions.
 
 
 ## Usage
 
 Describe the application's functionality:
-sdfdaf
+Describe the application's functionality.
 
 
 Insert images that demonstrate the application's functionality:
@@ -31,7 +31,7 @@ Insert images that demonstrate the application's functionality:
 
 ## Running tests
 
-tests
+Describe tests.
 
 
 ## License
@@ -41,7 +41,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-Co-authors: asfdasdf
+Co-authors: List co-authors here.
 
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -51,7 +51,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 * Option 1:🍴 Fork this repo!
 
-* Option 2: 👯 Clone this repo to your local machine using https://github.com/funksoup/Hooking-Up-in-Your-Hood.git
+* Option 2: 👯 Clone this repo to your local machine using https://github.com/[username]/[repo-name].git
 
 ### Step 2
 
@@ -59,6 +59,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ### Step 3
 
-* 🔃 Create a new pull request using https://github.com/funksoup/Hooking-Up-in-Your-Hood/compare
+* 🔃 Create a new pull request using https://github.com/[username]/[repo-name]/compare
 
 
