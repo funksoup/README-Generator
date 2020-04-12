@@ -1,7 +1,7 @@
 
 # Project Title
 
-Your project's description would go here..
+Your project's description would go here.
 
 ------
 

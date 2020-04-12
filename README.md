@@ -20,13 +20,21 @@ Describe the application's functionality:
 
 The application will be invoked with the following command:
 ```
-node index.js
+node index
 ```
+
+Running `node index` will execute a series of questions that when completed, will be inserted into the README file. Questions include Github username, repository name, installation instructions, tech/frameworks used, usage description and more, and are contained in the `questionsGit` object.
+
+The `generateMarkdown.js` file in the `utils` folder contains the string which integrates the user responses and generates the README file.
+
 
 Images that demonstrate the application's functionality:
 
-![screenshot 1](./Assets/image/screen_1.png)
-![screenshot 2](./Assets/image/screen_2.png)
+<img src = "/images/node_gitQuestions_1.jpg" width="300">
+
+<img src = "/images/readme_template_top.png" width="300">
+
+<img src = "/images/readme_template_bottom.png" width="300">
 
 
 ## License
