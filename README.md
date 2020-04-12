@@ -30,11 +30,11 @@ The `generateMarkdown.js` file in the `utils` folder contains the string which i
 
 Images that demonstrate the application's functionality:
 
-<img src = "/images/node_gitQuestions_1.jpg" width="300">
+<img src = "/images/node_gitQuestions_1.jpg" width="500">
 
-<img src = "/images/readme_template_top.png" width="300">
+<img src = "/images/readme_template_top.png" width="500">
 
-<img src = "/images/readme_template_bottom.png" width="300">
+<img src = "/images/readme_template_bottom.png" width="500">
 
 
 ## License
