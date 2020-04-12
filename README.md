@@ -25,7 +25,7 @@ node index
 
 Running `node index` will execute a series of questions that when completed, will be inserted into the README file. Questions include Github username, repository name, installation instructions, tech/frameworks used, usage description and more, and are contained in the `questionsGit` object.
 
-The `generateMarkdown.js` file in the `utils` folder contains the string which integrates the user responses and generates the README file.
+The `generateMarkdown.js` file in the `utils` folder contains the string which integrates the user responses and generates the README file. The README file that is generated is called `README_template.md`
 
 
 Images that demonstrate the application's functionality:
